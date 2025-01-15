@@ -1,0 +1,3 @@
+[submodule "angular-movies"]
+	path = angular-movies
+	url = ./angular-movies
